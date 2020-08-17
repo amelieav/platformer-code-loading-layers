@@ -1,0 +1,4 @@
+-commented out collision commented
+-blue background is still visible
+-no tiles visible
+-sprite hovers
